@@ -14,7 +14,3 @@ Upload a photo or capture one with your camera. FlipFun converts it into black-a
 ## Usage
 
 Open `index.html` in any modern browser, or visit the live GitHub Pages deployment or test it out here "https://saithihanaing1.github.io/FlipFun/"
-
-## Deploy
-
-This is a static site. Push the repository to GitHub, then go to **Settings → Pages** and set the source to the `main` branch, root folder. GitHub Actions will handle all subsequent deployments automatically.
